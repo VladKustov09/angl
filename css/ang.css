@@ -1,0 +1,73 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	
+}
+
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.main{
+	background: url(../img/turkey.jpg);
+	background-size: 470px 290px;
+	width: 471px;
+	margin: 0px auto;
+}
+
+.have{
+	display: flex;
+	color: #9932CC;
+}
+
+.glav{
+	margin-right: 30px;
+}
+
+.hh{
+	background: #ffffff;
+}
+
+.gh{
+	display: flex;
+}
+
+.jj{
+	margin-top: 50px;
+	width: 200px;
+	height: 110px;
+	background: yellow;
+}
+
+.fg{
+	margin-left: 10px;
+	font-size: 13px;
+	margin-top: 143px;
+	color: #00008B;
+}
+
+.podval{
+	
+	text-align: center;
+	height: 60px;
+	width: 1366px;
+	background: gray;
+	padding: 15 15;
+}
+
+.podval h1{
+	color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
